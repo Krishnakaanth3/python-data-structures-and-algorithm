@@ -16,3 +16,7 @@ print(t[1:3])
 t = ['a', 'b', 'c']
 t.append('d')
 print(t)
+#quiz
+fruit = 'Banana'
+fruit[0] = 'b'
+print(fruit)
