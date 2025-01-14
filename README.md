@@ -4,9 +4,7 @@ Back to basics to get a solid grasp on it.
 
 - [Introduction](#introduction)
 - [Coursework](#coursework)
-- [Projects](#projects)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
