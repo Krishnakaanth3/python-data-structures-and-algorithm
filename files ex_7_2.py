@@ -1,4 +1,4 @@
-fname = raw_input("Enter file name: ")
+fname = input("Enter file name: ")
 #desired output: Average spam confidence: 0.7507185185185187
 fh = open(fname)
 count = 0
