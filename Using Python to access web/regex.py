@@ -1,5 +1,5 @@
 import re
-'''
+
 s = 'A message from csev@umich.edu to cwen@iupui.edu about meeting @2PM'
 lst = re.findall('\S+@\S+', s)
 print(lst)
@@ -26,4 +26,4 @@ for line in hand:
     line = line.rstrip()
     if re.search('^X\S*: [0-9.]+', line):
         print(line)
-'''
+
